@@ -13,7 +13,7 @@ Source for data files: <br />
 •	We use consumer price index (CPI) announcements before February 1972 and producer price index (PPI) thereafter<br />
 •	The dates for the FOMC scheduled interest rate announcement dates are available from the Federal Reserve website (Unscheduled FOMC meetings are not included in the sample.)<br />     &emsp;o https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm<br />
   &emsp;o https://www.federalreserve.gov/monetarypolicy/fomc_historical_year.htm<br />
-• Daily stock data from CRSP<br />
+• Daily stock data from CRSP (this is the only data file used in the jupyter notebook not provided here. The dialy data file is too large to upload here. <br />
 • Treasury yields and Fama-French factor portfolio returns from ken from:<br />
   &emsp;o https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html<br />
 •	Strategy based on work of Pavel G. Savor and Mungo Ivor Wilson<br />
