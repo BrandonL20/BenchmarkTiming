@@ -20,3 +20,4 @@ Source for data files: <br />
   &emsp;o Savor, Pavel G. and Wilson, Mungo Ivor, Asset Pricing: A Tale of Two Days (Mar 2012). AFA 2013 San Diego Meetings Paper, Available at SSRN:     <br />   https://ssrn.com/abstract=2024422 or http://dx.doi.org/10.2139/ssrn.2024422
   
 Special thanks to BYU professors Brandon Bates and Brian Boyer for mentorship over this project.
+Also to Ellie Evans, Mark Rose, and Silver Fund.
