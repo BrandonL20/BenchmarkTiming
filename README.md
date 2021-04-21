@@ -1,9 +1,9 @@
 # BenchmarkTiming
 A quantitative trading strategy to tilt into benchmark ETF on days where market risk (beta) is rewarded
 
-The jupyter notebook contains 3 tests:\\
-  (1) A replication confirming the findings of Savor & Wilson (2012) on macro-announcements and market beta risk-return relationship.\\
-  (2) An out-of-sample test (2012-2019) finding support that these results continue to persist even after being published.\\
+The jupyter notebook contains 3 tests:<br />
+  (1) A replication confirming the findings of Savor & Wilson (2012) on macro-announcements and market beta risk-return relationship.
+  (2) An out-of-sample test (2012-2019) finding support that these results continue to persist even after being published.
   (3) A robustness test on the implementation timing of a trading strategy based around macro-announcement days.
 
 Source for data files: 
